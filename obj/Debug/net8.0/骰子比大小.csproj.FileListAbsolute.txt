@@ -1,0 +1,14 @@
+D:\pycode\骰子比大小\骰子比大小\bin\Debug\net8.0\骰子比大小.exe
+D:\pycode\骰子比大小\骰子比大小\bin\Debug\net8.0\骰子比大小.deps.json
+D:\pycode\骰子比大小\骰子比大小\bin\Debug\net8.0\骰子比大小.runtimeconfig.json
+D:\pycode\骰子比大小\骰子比大小\bin\Debug\net8.0\骰子比大小.dll
+D:\pycode\骰子比大小\骰子比大小\bin\Debug\net8.0\骰子比大小.pdb
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.GeneratedMSBuildEditorConfig.editorconfig
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.AssemblyInfoInputs.cache
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.AssemblyInfo.cs
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.csproj.CoreCompileInputs.cache
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.dll
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\refint\骰子比大小.dll
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.pdb
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\骰子比大小.genruntimeconfig.cache
+D:\pycode\骰子比大小\骰子比大小\obj\Debug\net8.0\ref\骰子比大小.dll
